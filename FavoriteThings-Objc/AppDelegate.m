@@ -7,7 +7,7 @@
 //
 
 #import "AppDelegate.h"
-//ios blah
+
 @interface AppDelegate ()
 
 @end
